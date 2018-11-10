@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import 'bulma/css/bulma.css';
 
-import Counter from './components/counter';
+import Counter from './containers/Counter';
 
 class App extends Component {
   render() {
