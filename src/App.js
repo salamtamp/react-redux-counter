@@ -7,9 +7,9 @@ import Counter from './containers/Counter';
 class App extends Component {
   render() {
     return (
-      <div class="container">
-        <div class="notification">
-          <h1 class="title is-1">Hello, React!</h1>
+      <div className="container">
+        <div className="notification">
+          <h1 className="title is-1">Hello, React!</h1>
           <Counter />
         </div>
       </div>
